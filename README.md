@@ -1,2 +1,2 @@
 # Trip-Details
-Hey , it's my first responsive web designv
+Hey , it's my first responsive web design
