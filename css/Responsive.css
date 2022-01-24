@@ -45,4 +45,8 @@
     .paras{
         padding: 0;
     }
+    .buttons{
+        display:flex;
+        justify-content:center; 
+    }
 } 
